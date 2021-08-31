@@ -8,7 +8,7 @@
  
 
 ## :battery: Projects:
-### Below are the codes that I've made:
+### Below are my Projects:
 
 * **Albion's API Request with Web Interface** https://bit.ly/3BrxGwD
 * **Albion's API Request with GUI Interface** https://bit.ly/3jvPj8o
